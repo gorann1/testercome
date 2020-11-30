@@ -114,6 +114,13 @@
       <path value="$PROJECT_DIR$/vendor/jeremykenedy/laravel2step" />
       <path value="$PROJECT_DIR$/vendor/jeremykenedy/laravel-roles" />
       <path value="$PROJECT_DIR$/vendor/laravel/helpers" />
+      <path value="$PROJECT_DIR$/vendor/jaybizzle/laravel-crawler-detect" />
+      <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/vendor/jeremykenedy/laravel-phpinfo" />
+      <path value="$PROJECT_DIR$/vendor/jeremykenedy/laravel-logger" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
