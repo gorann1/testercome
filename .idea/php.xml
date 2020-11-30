@@ -108,6 +108,12 @@
       <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/jeremykenedy/laravel-blocker" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/eklundkristoffer/seedster" />
+      <path value="$PROJECT_DIR$/vendor/jeremykenedy/laravel2step" />
+      <path value="$PROJECT_DIR$/vendor/jeremykenedy/laravel-roles" />
+      <path value="$PROJECT_DIR$/vendor/laravel/helpers" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
